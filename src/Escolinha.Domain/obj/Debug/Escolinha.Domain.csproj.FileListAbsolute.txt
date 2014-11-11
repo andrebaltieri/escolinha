@@ -1,0 +1,5 @@
+c:\users\andre\documents\visual studio 2013\Projects\Escolinha\Escolinha.Domain\bin\Debug\Escolinha.Domain.dll
+c:\users\andre\documents\visual studio 2013\Projects\Escolinha\Escolinha.Domain\bin\Debug\Escolinha.Domain.pdb
+c:\users\andre\documents\visual studio 2013\Projects\Escolinha\Escolinha.Domain\obj\Debug\Escolinha.Domain.dll
+c:\users\andre\documents\visual studio 2013\Projects\Escolinha\Escolinha.Domain\obj\Debug\Escolinha.Domain.pdb
+c:\users\andre\documents\visual studio 2013\Projects\Escolinha\Escolinha.Domain\obj\Debug\Escolinha.Domain.csprojResolveAssemblyReference.cache

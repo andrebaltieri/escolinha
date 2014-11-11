@@ -1,0 +1,31 @@
+O aluno pode alterar suas informações
+O aluno pode se autenticar
+O aluno pode recuperar uma senha esquecida
+O aluno pode alterar sua senha
+O aluno pode ser ativado ou inativado via sistema
+O aluno pode ser obrigado a alterar sua senha periodicamente
+O aluno só pode se autenticar se estiver ativo
+O aluno só pode se autenticar se não precisar alterar sua senha
+A aula pertence a um curso
+Uma aula tem varios alunos
+Uma aula tem um inicio e um fim
+Uma aula não pode acontecer em um feriado
+Uma aula não pode acontecer se estiver inativa
+Uma aula não pode acontecer no passado
+Uma aula não pode durar mais que 2 horas
+Não é possível alterar um curso de uma aula
+Somente alunos ativos podem ser adicionados a aula
+Somente aulas ativas podem receber alunos
+A aula só pode ser criada se o curso estiver ativo
+Só é possível adicionar aulas para um curso com Status=Confirmado
+Só é possível adicionar aulas para um curso do tipo Presencial ou Online.
+Só é possível adicionar alunos a aula cujo a idade seja suficiente
+Ao marcar a aula, deve verificar a disponibilidade da sala
+Ao marcar a aula, deve verificar se a sala está ativa
+Um curso pode ter no máximo 10 aulas
+Durante o mês de junho, julho, dezembro e janeiro, as salas entram em manutenção
+A idade mínima para se inscrever no portal é 16 anos
+Ao se cadastrar, o aluno precisa confirmar seu E-mail
+As aulas só podem ocorrer das 08:00 as 23:00 com uma pausa das 12:00 às 13:00
+A quantidade de alunos na aula deve respeitar o limite máximo de alunos por sala.
+Ao marcar uma aula, deve-se validar a agenda do instrutor
